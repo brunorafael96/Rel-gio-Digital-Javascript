@@ -1,6 +1,6 @@
-*,
-*::before,
-*::after {
+
+before,
+after {
   content: "";
   margin: 0;
   box-sizing: border-box;
